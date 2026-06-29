@@ -16,7 +16,6 @@
   <a href="https://t.me/flunull"><img height="25" src="https://img.shields.io/badge/Telegram-%2300BFFF.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://t.me/flussoniciptv"><img height="25" src="https://img.shields.io/badge/Telegram_Channel-%2300BFFF.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp;
   <a href="https://x.com/flussoniciptv"><img height="25" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://orcid.org/0009-0000-2103-251X"><img height="25" src="https://img.shields.io/badge/ORCID-00AABB.svg?&style=for-the-badge&logo=orcid&logoColor=white"></a>
 </p>
 
 <p align="center">
